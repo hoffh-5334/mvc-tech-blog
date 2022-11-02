@@ -7,7 +7,7 @@ async function editFormHandler(event) {
   if(email.length) email = '"email": "' + email + '"';
   let password = document.querySelector('input[name="password"]').value.trim();
   if (!password.length) {
-      alert('You must enter your current password to confirm changes or enter a new password.');
+      alert('Please enter your current password to confirm changes or, enter a new password.');
       return
   } else {
       password = '"password": "' + password + '"';
