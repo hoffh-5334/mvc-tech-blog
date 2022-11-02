@@ -9,7 +9,7 @@ const postData = [
   {
     title: 'Handlebars Templates',
     post_text: 'Handlebars. js is a Javascript library used to create reusable webpage templates. The templates are combination of HTML, text, and expressions. The expressions are included in the html document and surrounded by double curly braces.',
-    user_id: 2,
+    user_id: 3,
   },
   {
     title: 'Handlebars Partials',
