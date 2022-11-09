@@ -24,7 +24,7 @@ The following GitHub repo url is:
 https://github.com/hoffh-5334/mvc-tech-blog
 
 The deployed url is:
-
+![screenshot #1](./public/images/../deployed.jpg)
 
 Screenshot of Deployed Application
 
