@@ -23,10 +23,17 @@ This code does not require any installation. You can simply click the URL for th
 The following GitHub repo url is:
 https://github.com/hoffh-5334/mvc-tech-blog
 
+Deployed application on Railway:
+https://mvc-tech-blog-production.up.railway.app/
+
 The deployed url is:
 ![screenshot #1](./public/images/../deployed.jpg)
 
 Screenshot of Deployed Application
+
+![screenshot #1](./public/images/../railway.jpg)
+
+
 
 ## License
 
