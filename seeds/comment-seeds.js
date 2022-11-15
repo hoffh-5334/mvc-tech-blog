@@ -16,6 +16,11 @@ const commentData = [
     post_id: 2,
     user_id: 2
   },
+  {
+    comment_text: "I learned something new today!",
+    post_id: 1,
+    user_id: 2
+  },
 ];
 
 const seedComments = () => Comment.bulkCreate(commentData);
