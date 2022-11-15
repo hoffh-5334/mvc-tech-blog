@@ -6,18 +6,18 @@
   <form class="edit-user-form">
     <div>
       <label for="user-name">Username</label>
-      <input name="user-name" type="text" value="{{user.username}}" />
+      <input name="user-name" type="text" value="{{User.username}}" />
     </div>
     <div>
       <label for="email">Email</label>
-      <input name="email" value="{{user.email}}" />
+      <input name="email" value="{{User.email}}" />
     </div>
      <div>
       <label for="password">Password</label>         
       <input type="password" name="password" />
     </div>
     <div>
-      <input type="hidden" id="user-id" name="user-id" value={{user.id}} />
+      <input type="hidden" id="user-id" name="user-id" value={{User.id}} />
     </div>   
     <button type="submit">Update</button>
   </form>
